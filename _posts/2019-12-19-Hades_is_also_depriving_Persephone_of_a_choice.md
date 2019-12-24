@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Hades is <i>also</i> denying Persephone of a choice"
+categories: [text-messages]
+tags: [Persephone, Hades]
+author: Bobo Glaukon
+date: 2019-12-18
+---
+
+A theme that has emerged in LO is the contrast between Hades and essentially all other gods in Olympus. Hades wants Persephone to choose her own path, whereas everyone else has Persephone's life programmed out for her, without regards to her own desires. Persephone's subconscious seems to recognize Hades' somewhat different approach in a dream, where Persephone is clearly frustrated by *others* plans for her. The theme emerges explicitly in <89> when Persephone acknowledges to Hades that she is unsure how she feels about TGOEM. However, by not sharing his feelings with Persephone, Hades is also denying Persephone the ability to choose her own fate.
+
+Hades represents his unwillingness to tell Persephone about his feelings in mostly benign terms. On a basic level, Hades low self-regard in early episodes prevents him from admitting that Persephone might actually care about him. By later episodes, Persephone's opinion of Hades is too explicit for Hades to deny. <81> >!Persephone specifically acknowledges to Apollo and Hades that she cares about Hades.!< <88> >!Persephone confesses her feelings for Hades to Hades.!< Hades also internally thinks of his reluctance as not putting pressure on Persephone, but&mdash;while there is a way Hades *could* be pressuring Persephone&mdash;by denying Persephone full information, Hades has deprived her of the opportunity to make a meaningful choice.
+
+Meaningful choices can only happen in the presence of reasonable information about the options available to choose. If the chooser has information about possible selections, they can weigh their preferences against the options on offer, choosing the option that most closely approximates the choosers preferences. When the chooser lacks information about one or more option on offer, uncertainty about the option clouds, and potentially removes the option. In a choice between two options where one option is known, and the other is unknown, the choice is&mdash;essentially&mdash;meaningless, like ["Wheel of Fish"](https://www.youtube.com/watch?v=KezvwARhBIc):"You can hold on to the 'red snapper' or go with what's in the box&hellip;?"
+
+From Persephone's perspective her current choice is between something she knows a great deal about (TGOEM) and a complete unknown. While *we* know that Hades deeply loves Persephone (and will ultimately marry her), she does not. Hades has represented his interest in Persephone enough that she can be reasonably certain he is interested in her, she cannot possibly know the level of his interest. While marriage and long term relationships are on the table even with limited information since Hades isn't married, so are other less desirable options, including living as his concubine, secretary or "side piece" while Minthe remains his girlfriend.
+
+Persephone is strategic enough that choosing between the relatively high-status TGOEM in the mortal realm or on Olympus, and a shot at becoming the new Minthe, TGOEM probably looks pretty good. Of course, Hades already *knows* he does not want Persephone as the "new Minthe" but, by not saying so, he is not allowing Persephone the opportunity to make the real choice. Hades' reluctance to declare his love for Persephone, or propose to her is responsible, nonetheless, expressing that he sees true potential in Persephone, including as a future Queen, is the only way she can truly make a choice. Ironically, it is only once Persephone *can* make her choice that Hades will be able to better understand his own relationship with her.
+
+Hades' reluctance at this point in the story&mdash;he's only known Persephone for 10 days&mdash;is understandable, charming and even endearing, but as time goes on it could become almost pathological and nefarious. There is no indication that Demeter or Hestia are maliciously shaping Persephone's life, and they seem to be acting out of a genuine though misguided concern about Persephone's well-being. In both Hades and TGOEM's case, doing right by Persephone requires each to set aside their own preferences or fears.
+
