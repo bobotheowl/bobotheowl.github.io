@@ -1,19 +1,20 @@
 <div class="ui card">
 
+
 <!--     {% assign foundImage = 0 %}
-    {% assign images = post.content | split:"<img" %}
-    {% for image in images %}
-        {% if image contains 'src' %}
-            {% if foundImage == 0 %}
-                {% assign html = image | split:">" | first %}
-                <div class="image">
-                    <img {{ html }} />
-                </div> 
-                {% assign foundImage = 1 %}
-                {% break %}
-            {% endif %}
-        {% endif %}
-    {% endfor %} -->
+    <!-- {% assign images = post.content | split:"<img" %} -->
+    <!-- {% for image in images %} -->
+    <!--     {% if image contains 'src' %} -->
+    <!--         {% if foundImage == 0 %} -->
+    <!--             {% assign html = image | split:">" | first %} -->
+    <!--             <div class="image"> -->
+    <!--                 <img {{ html }} /> -->
+    <!--             </div> --> 
+    <!--             {% assign foundImage = 1 %} -->
+    <!--             {% break %} -->
+    <!--         {% endif %} -->
+    <!--     {% endif %} -->
+    <!-- {% endfor %} --1> -->
 
     <div class="content">
         <a class="header" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title | strip_html | truncatewords: 15 }}</a>
@@ -27,6 +28,18 @@
         <div class="description">
             {{ post.summary | strip_html | truncatewords: 30 }}
         </div>
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} class="smallimage"/>
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
     </div>
     <div class="extra content">
       {{ post.tags | array_to_sentence_string }}
