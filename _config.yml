@@ -3,7 +3,7 @@ description:
 
 markdown: kramdown
 highlighter: rouge
-logo: true
+logo: false
 paginate: 15
 baseurl: /
 plugins: [jekyll-gist]

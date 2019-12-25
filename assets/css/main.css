@@ -100,10 +100,10 @@ main {
     width: auto !important;
 }
 
-.ui.card image  {
-    width: 100% !important;
-    height: 200px !important;
-}
+/* .ui.card image  { */
+/*     width: 100% !important; */
+/*     height: 200px !important; */
+/* } */
 
 .image {
     display:block;
@@ -111,6 +111,14 @@ main {
     margin-right: auto;
     max-width: 500px;
     max-height: 1400px;
+}
+
+.smallimage {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 
