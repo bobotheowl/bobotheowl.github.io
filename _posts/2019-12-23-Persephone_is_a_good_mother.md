@@ -10,3 +10,6 @@ date: 2019-12-23
 
 ![Nightmares at naptime.](/assets/img/nightmares.png)
 
+Part 1/3
+
+[> Next message in series](2019-12-24-Cerberos_is_a_good_doggo.md)

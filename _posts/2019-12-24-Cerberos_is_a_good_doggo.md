@@ -10,3 +10,7 @@ summary: Persephone and Hades come to a perfectly reasonable conclusion about Me
 
 ![Cerberos is a good boi](/assets/img/cerberos.png)
 
+Part 2/3
+
+[< Previous message](2019-12-23-Persephone_is_a_good_mother.md)
+[> Next message](2019-12-26-Little_kids_like_the_strangest_things.md)
