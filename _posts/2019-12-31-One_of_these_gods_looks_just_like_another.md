@@ -6,6 +6,7 @@ categories: [text-messages]
 summary: Eros freaks out, the Hermes freaks out, then we all freak out.
 author: Bobo Glaukon
 date: 2019-12-31
+published: false
 ---
 
 ![Athena sure reminds me of someone](/assets/img/kindred-spirits.png)

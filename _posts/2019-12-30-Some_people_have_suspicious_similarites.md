@@ -6,6 +6,7 @@ categories: [text-messages]
 summary: Hades is a little to willing to answer a question nobody asked.
 author: Bobo Glaukon
 date: 2019-12-30
+published: false
 ---
 
 ![Hades reveals a little too much.](/assets/img/grandson.png)

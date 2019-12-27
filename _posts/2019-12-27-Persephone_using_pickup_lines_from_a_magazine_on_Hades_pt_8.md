@@ -5,7 +5,7 @@ tags: [Persephone, Hades]
 categories: [text-messages]
 summary: Persephone falls back to an oldie-but-a-goodie pickup line, but it just doesn't work in Olympus
 author: Bobo Glaukon
-date: 2019-12-28
+date: 2019-12-27
 ---
 
 ![The Greek alphabet is not as long](/assets/img/letters.png)
