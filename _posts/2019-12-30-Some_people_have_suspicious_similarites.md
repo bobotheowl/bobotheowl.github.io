@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some people share as suspiciously specific set of characteristics"
+title: "Some people share a suspiciously specific set of characteristics"
 tags: [Eros, Hades, Aphrodite]
 categories: [text-messages]
 summary: Hades is a little to willing to answer a question nobody asked.
