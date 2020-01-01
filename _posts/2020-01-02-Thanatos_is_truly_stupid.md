@@ -11,5 +11,5 @@ published: false
 
 ![Sisyphus tricks Thanatos](/assets/img/sisyphus.png)
 
-As good a retelling as any of this actual Greek myth exists on ["Myths and Legends Podcast", Ep. 34](https://www.mythpodcast.com/4035/34-greek-mythology-uphill-battle/). Stay tuned for the exiting conclusion&hellip;!
+As good a retelling as any of this *actual Greek myth* is ["Myths and Legends Podcast", Ep. 34](https://www.mythpodcast.com/4035/34-greek-mythology-uphill-battle/). Stay tuned for the exiting conclusion&hellip;!
 

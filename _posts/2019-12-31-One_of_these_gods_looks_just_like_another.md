@@ -13,4 +13,5 @@ date: 2019-12-31
 This the second of two conversations. [Go to the first
 conversation.](/_posts/2019-12-30-Some-people-have-suspicious-similarites.md)
 
-I must confess that the original idea that either Athena or Ares might be Hades' bastard sprung from a comment on the WebToon page, but the comments there are essentially unsearchable. I did not note at the time who noticed that Athena looks exactly like Hades. I *think* given the image where Hades and Athena are right next to one another, it's possible that Rachel Smythe is setting up that reveal, later on.
+I must confess that the original idea that either Athena or Hades might be Hades bastard sprung from a comment on the WebToon page, but the comments there are essentially unsearchable, and I did not note at the time who noticed that Athena looks exactly like Hades. I *think* given the image where Hades and Athena are right next to one another it's possible that Rachel Smythe is setting up that reveal, later on.
+
