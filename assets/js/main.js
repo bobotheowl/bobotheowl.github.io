@@ -20,3 +20,13 @@ function handleKeyPress(e) {
 function handleSubmit() {
     window.open('https://www.google.com/search?q=site:' + window.location.hostname + ' ' + currentSearchTerm);
 }
+
+function toggleSpoilers() {
+  var x = document.getElementById("spoilers");
+  if (x.style.backgroundColor === "black") {
+    x.style.backgroundColor = "white";
+  } else {
+    x.style.backgroundColor = "black";
+  }
+} 
+

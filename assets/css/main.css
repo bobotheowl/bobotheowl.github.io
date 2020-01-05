@@ -1,6 +1,4 @@
-
-    Import League Gothic <3
-*/
+/* Import Fonts */
 @font-face {
     font-family: 'League Gothic';
     src: url('leaguegothic-regular-webfont.eot');
@@ -12,8 +10,62 @@
     font-style: normal;
 }
 
+
+@font-face {
+  font-family: "CaslonAntique";
+  src: url("/assets/fonts/CaslonAntique.eot"); /* IE9 Compat Modes */
+  src: url("/assets/fonts/CaslonAntique.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/assets/fonts/CaslonAntique.otf") format("opentype"), /* Open Type Font */
+    url("/assets/fonts/CaslonAntique.svg") format("svg"), /* Legacy iOS */
+    url("/assets/fonts/CaslonAntique.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/assets/fonts/CaslonAntique.woff") format("woff"), /* Modern Browsers */
+    url("/assets/fonts/CaslonAntique.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CaslonAntique-Italic";
+  src: url("/assets/fonts/CaslonAntique-Italic.eot"); /* IE9 Compat Modes */
+  src: url("/assets/fonts/CaslonAntique-Italic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/assets/fonts/CaslonAntique-Italic.otf") format("opentype"), /* Open Type Font */
+    url("/assets/fonts/CaslonAntique-Italic.svg") format("svg"), /* Legacy iOS */
+    url("/assets/fonts/CaslonAntique-Italic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/assets/fonts/CaslonAntique-Italic.woff") format("woff"), /* Modern Browsers */
+    url("/assets/fonts/CaslonAntique-Italic.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "CaslonAntique-Bold";
+  src: url("/assets/fonts/CaslonAntique-Bold.eot"); /* IE9 Compat Modes */
+  src: url("/assets/fonts/CaslonAntique-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/assets/fonts/CaslonAntique-Bold.otf") format("opentype"), /* Open Type Font */
+    url("/assets/fonts/CaslonAntique-Bold.svg") format("svg"), /* Legacy iOS */
+    url("/assets/fonts/CaslonAntique-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/assets/fonts/CaslonAntique-Bold.woff") format("woff"), /* Modern Browsers */
+    url("/assets/fonts/CaslonAntique-Bold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CaslonAntique-BoldItalic";
+  src: url("/assets/fonts/CaslonAntique-BoldItalic.eot"); /* IE9 Compat Modes */
+  src: url("/assets/fonts/CaslonAntique-BoldItalic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/assets/fonts/CaslonAntique-BoldItalic.otf") format("opentype"), /* Open Type Font */
+    url("/assets/fonts/CaslonAntique-BoldItalic.svg") format("svg"), /* Legacy iOS */
+    url("/assets/fonts/CaslonAntique-BoldItalic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/assets/fonts/CaslonAntique-BoldItalic.woff") format("woff"), /* Modern Browsers */
+    url("/assets/fonts/CaslonAntique-BoldItalic.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: bold;
+  font-style: italic;
+}
+
 html, body {
     height: 100%;
+    font-family: "CaslonAntique", serif;
 }
 
 img, video, iframe {
@@ -33,6 +85,7 @@ header {
     background-image: url(/assets/img/bg.jpg);
     background-size: cover;
     color: rgba(255, 255, 255, .75);
+    font-family: "CaslonAntique", serif;
 }
 
 .site-logo {
@@ -47,7 +100,7 @@ header {
 }
 
 .site-description {
-    font-family: "League Gothic", "Arial Narrow", Arial, sans-serif;
+    font-family: "CaslonAntique", serif;
     text-align: center;
 }
 
@@ -94,10 +147,12 @@ main {
     max-width: 80%;
     margin: 0 auto;
     padding-top: 1rem;
+    font-family: "CaslonAntique", serif;
 }
 
 .ui.card {
     width: auto !important;
+    font-family: "CaslonAntique", serif;
 }
 
 /* .ui.card image  { */
@@ -130,10 +185,15 @@ main {
 .description {
     word-wrap: break-word;
 }
+
 /* /main */
 
 /* post */
 
 .post-container {
-    font-family: "Open Sans", sans-serif;
+    font-family: "CaslonAntique", serif;
+}
+
+span#spoilers {
+    background-color: black;
 }

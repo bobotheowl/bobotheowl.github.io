@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "CaslonAntique-BoldItalic";
+  src: url("./fonts/CaslonAntique-BoldItalic.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/CaslonAntique-BoldItalic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/CaslonAntique-BoldItalic.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/CaslonAntique-BoldItalic.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/CaslonAntique-BoldItalic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/CaslonAntique-BoldItalic.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/CaslonAntique-BoldItalic.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
