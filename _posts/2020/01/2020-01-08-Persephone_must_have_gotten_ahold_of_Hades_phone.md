@@ -17,6 +17,6 @@ If this is a little unclear, imagine that the Pomegranate phone has a "Siri-like
 
 This is specifically referring to <90> after [Persephone has her "outbreak"](https://www.webtoons.com/en/romance/lore-olympus/episode-90/viewer?title_no=1320&episode_no=94), Hades comes out and says "Hopefully, you are satisfied now, Ms. Kore." And Persephone looks like this:
 
-![Clearly very satisfied](/assets/img/satisfied-persephone.png)}
+![Clearly very satisfied](/assets/img/persephone-satisfied.png)}
 
 I'm not above a "that's what she said" joke (which honestly almost writes itself here), but [u/DUMMMoriarty](https://www.reddit.com/r/Lore_Olympus/comments/e9hemo/zeus_is_deviant_by_any_standard/faketns?utm_source=share&utm_medium=web2x) requested a conversation between Apollo, Persephone and Hades. This seemed like a reasonable way to make it happen, *and* write a "that's what she said" joke.
