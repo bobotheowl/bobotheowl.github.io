@@ -8,8 +8,9 @@ author: Bobo Glaukon
 date: 2020-01-08
 ---
 
-![Apollo's phone knows that Hades can satisfy Persephone.](/assets/img/buttweasel.png)
+![Apollo's phone knows that Hades can satisfy Persephone.](/assets/img/buttweasel-0.png)
 
+![Ah, Mr. Buttweasel.](/assets/img/buttweasel-1.png)
 <hr>
 
 If this is a little unclear, imagine that the Pomegranate phone has a "Siri-like" personal assistant, and the personal assistant sometimes has misfires, just like Siri. If someone asks a question the personal assistant does not know the answer to, the phone will contact someone who *probably does* know the answer. In this case, even the phone knows that Hades can satisfy Persephone. 
