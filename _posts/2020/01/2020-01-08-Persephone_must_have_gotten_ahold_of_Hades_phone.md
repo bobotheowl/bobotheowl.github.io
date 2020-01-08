@@ -6,7 +6,6 @@ categories: [text-messages]
 summary: Apollo is trying to "persuade" Persephone that he's not so bad, but Persephone knows better.
 author: Bobo Glaukon
 date: 2020-01-08
-published: false
 ---
 
 ![Apollo's phone knows that Hades can satisfy Persephone.](/assets/img/buttweasel.png)
