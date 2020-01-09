@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Persephone's not the goddes of the hunt, but she still goes on the hunt"
+title: "Persephone's not the goddess of the hunt, but she still goes on the hunt"
 tags: [Hades, Persephone]
 categories: [text-messages]
 summary: When hades shows up at home, he better watch his&hellip;well, himself.
