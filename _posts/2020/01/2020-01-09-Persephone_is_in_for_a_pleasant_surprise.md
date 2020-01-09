@@ -3,13 +3,12 @@ layout: post
 title: "Persephone is in for a pleasant surprise"
 tags: [Hera, Persephone]
 categories: [text-message]
-summary: Persephone worries about Hades, because she doesn't understand Zeus' (of course) coarse language
+summary: Persephone worries about Hades, because she doesn't understand Zeus'  coarse language
 author: Bobo Glaukon
 date: 2020-01-09
-published: false
 ---
 
-![Hades can breathe through his ear, kinda](/assets/img/ears.png)
+![Hades can breathe through his ears, kinda.](/assets/img/ears.png)
 
 <hr>
 
