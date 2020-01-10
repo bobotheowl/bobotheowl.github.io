@@ -12,4 +12,4 @@ date: 2020-01-10
 
 <hr>
 
-Persephone so badly wants to stand up for Hades, and lays some serious shade (of the 21^st^ century variety), but can't bring herself to be totally mean.
+Persephone so badly wants to stand up for Hades, and casts some serious shade (of the 21<sup>st</sup>&ndash;century variety), but can't bring herself to be totally mean. Also, although Persephone is making a few double entendres here, I think she is doing it completely unawares. Minthe wouldn't think so, though.
