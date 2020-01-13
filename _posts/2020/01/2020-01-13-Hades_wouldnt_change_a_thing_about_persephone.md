@@ -2,7 +2,7 @@
 layout: post
 title: "Hades wouldn't change a thing about Persephone"
 tags: [Hades, Persephone]
-categories: [text-message]
+categories: [text-message, pickups]
 summary: Persephone tries yet another pickup line, and Hades ruins it by being more pure than ever.
 author: Bobo Glaukon
 date: 2020-01-13
