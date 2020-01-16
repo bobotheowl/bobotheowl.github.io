@@ -5,8 +5,7 @@ tags: [Hades, Persephone]
 categories: [text-messages]
 summary: When hades shows up at home, he better watch his&hellip;well, himself.
 author: Bobo Glaukon
-date: 2020-01-15
-published: false
+date: 2020-01-16
 ---
 
 ![Persephone is going to get her man, one way or the other](/assets/img/noonehome.png)
