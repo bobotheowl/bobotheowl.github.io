@@ -5,8 +5,7 @@ tags: [Hades, Persephone, Thanatos, Hermes]
 categories: [text-message]
 summary: Hermes invites all the gods to a party, and gets an unexpected response.
 author: Bobo Glaukon
-date: 2020-01-14
-published: false
+date: 2020-01-18
 ---
 
 ![Hades would fire Hermes for inventing the lyre](/assets/img/fired.png)
