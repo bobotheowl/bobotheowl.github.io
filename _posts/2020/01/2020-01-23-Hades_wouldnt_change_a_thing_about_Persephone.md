@@ -6,7 +6,6 @@ categories: [text-message, pickups]
 summary: Persephone tries yet another pickup line, and Hades ruins it by being more pure than ever.
 author: Bobo Glaukon
 date: 2020-01-23
-published: false
 ---
 
 ![Hades loves Persephone just like she is](/assets/img/meat.png)
@@ -14,4 +13,4 @@ published: false
 
 <hr> 
 
-If you don't understand Persephone's pickup line, ask your parents.
+I believe this will be the last of the "pickup lines" series. If you don't understand Persephone's pickup line, ask your parents.

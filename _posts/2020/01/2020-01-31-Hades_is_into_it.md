@@ -5,7 +5,7 @@ tags: [Hades, Persephone]
 categories: [text-messages]
 summary: Hades has&hellip;unusual tastes, and Persephone suits him just fine.
 author: Bobo Glaukon
-date: 2020-02-06
+date: 2020-01-31
 published: false
 ---
 

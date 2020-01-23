@@ -5,7 +5,7 @@ tags: [Hades, Persephone]
 categories: [text-messages]
 summary: Hades pretends to be Cerberus to get Persephone to come home early.
 author: Bobo Glaukon
-date: 2020-01-31
+date: 2020-01-24
 published: false
 ---
 
