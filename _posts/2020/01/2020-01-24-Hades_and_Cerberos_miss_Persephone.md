@@ -6,7 +6,6 @@ categories: [text-messages]
 summary: Hades pretends to be Cerberus to get Persephone to come home early.
 author: Bobo Glaukon
 date: 2020-01-24
-published: false
 ---
 
 ![Hades pretends to be Cerberus](/assets/img/doggo.png)
