@@ -5,7 +5,7 @@ tags: [Asclepius, Zeus]
 categories: [text-messages]
 summary: Zeus contracts some&hellip;unusual diseases.
 author: Bobo Glaukon
-date: 2020-01-29
+date: 2020-02-10
 published: false
 ---
 
