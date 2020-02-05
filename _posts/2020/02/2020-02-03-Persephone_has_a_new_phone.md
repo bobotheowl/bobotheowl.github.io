@@ -6,7 +6,6 @@ categories: [text-message]
 summary: Persephone doesn't quite have the hang of her new phones assistant.
 author: Bobo Glaukon
 date: 2020-02-03
-published: false
 ---
 
 ![Persephone reveals things to Aphrodite she would rather keep secret.](/assets/img/pissed.png)
