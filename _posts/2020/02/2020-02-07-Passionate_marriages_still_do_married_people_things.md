@@ -6,7 +6,6 @@ categories: [text-messages]
 summary: Loving a literal goddess is great, but have you ever have fresh figs?
 author: Bobo Glaukon
 date: 2020-02-10
-published: false
 ---
 
 ![Hades wants figs from the mortal realm](/assets/img/figs.png)
