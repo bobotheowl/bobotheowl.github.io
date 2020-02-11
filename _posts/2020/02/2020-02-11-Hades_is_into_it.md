@@ -5,7 +5,7 @@ tags: [Hades, Persephone]
 categories: [text-messages]
 summary: Hades has&hellip;unusual tastes, and Persephone suits him just fine.
 author: Bobo Glaukon
-date: 2020-01-31
+date: 2020-02-11
 ---
 
 ![Persephone almost chokes out Hades when they kiss.](/assets/img/tanais.png)
