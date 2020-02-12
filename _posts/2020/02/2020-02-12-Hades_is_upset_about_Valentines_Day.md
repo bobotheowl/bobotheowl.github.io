@@ -7,7 +7,6 @@ summary: Hades thinks that St. Valentine gets too much credit for being a romant
 author: Bobo Glaukon
 date: 2020-02-12
 image: /assets/img/valentine.png
-published: false
 ---
 
 ![Hades thinks that St. Valentine gets too much credit for being a romantic](/assets/img/valentine.png)
