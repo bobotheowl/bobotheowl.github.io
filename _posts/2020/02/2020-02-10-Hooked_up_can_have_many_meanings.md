@@ -7,7 +7,6 @@ summary: Persephone uses the phrase "hooked up" to mean something it no longer m
 author: Bobo Glaukon
 date: 2020-02-10
 image: /assets/img/hooked-up.png 
-published: false
 ---
 
 ![Persephone misuses the phrase 'hooked up'](/assets/img/hooked-up.png)
