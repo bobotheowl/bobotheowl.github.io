@@ -6,6 +6,7 @@ categories: [text-messages]
 summary: There are strange goings on at the townhouse.
 author: Bobo Glaukon
 date: 2020-02-17
+image: /assets/img/attic.png
 published: false
 ---
 

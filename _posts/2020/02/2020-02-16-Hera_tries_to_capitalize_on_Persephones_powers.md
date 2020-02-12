@@ -6,6 +6,7 @@ categories: [text-messages]
 summary: Hera miscalculates when she tries to capitalize on Persephone's attraction to Hades.
 author: Bobo Glaukon
 date: 2020-02-16
+image: /assets/img/locked.png
 published: false
 ---
 
