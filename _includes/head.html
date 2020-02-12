@@ -3,10 +3,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    {% if page.image %}
+        <meta property="og:image" content= {{ page.image }}>
+    {% endif %}
     <link rel="stylesheet" href="/assets/css/main.css">
     <link rel="stylesheet" href="/assets/css/mobile.css">
     <link rel="stylesheet" href="/assets/css/vendor/syntax.css">
     <link rel="stylesheet" href="/assets/css/vendor/semantic.min.css"/>
-    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet"> -->
 </head>
