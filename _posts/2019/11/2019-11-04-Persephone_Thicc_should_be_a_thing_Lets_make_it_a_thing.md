@@ -9,5 +9,5 @@ author: Bobo Glaukon
 date: 2019-11-04
 ---
 
-![/assets/img/cheeky-0.png](/assets/img/cheeky-0.png)
+![/assets/img/cheeky.png](/assets/img/cheeky-0.png)
 
