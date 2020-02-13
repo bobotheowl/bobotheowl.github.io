@@ -9,6 +9,4 @@ author: Bobo Glaukon
 date: 2019-11-29
 ---
 
-![/assets/img/garden-0.png](/assets/img/garden-0.png)
-
-![/assets/img/garden-1.png](/assets/img/garden-1.png)
+![/assets/img/garden.png](/assets/img/garden.png)
