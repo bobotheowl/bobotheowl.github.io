@@ -9,5 +9,5 @@ author: Bobo Glaukon
 date: 2019-11-04
 ---
 
-![/assets/img/cheeky.png](/assets/img/cheeky-0.png)
+![ Guard your words carefully, when you are around gods and goddesses.](/assets/img/thicc.png)
 
