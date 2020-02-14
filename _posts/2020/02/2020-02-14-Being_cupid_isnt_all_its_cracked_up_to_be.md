@@ -7,7 +7,6 @@ summary: Eros likes romatic times of year, but modern ideas about Cupid make it 
 author: Bobo Glaukon
 date: 2020-02-14
 image: /assets/img/cupid.png
-published: false
 ---
 
 ![Eros likes romatic times of year, but modern ideas about Cupid make it wierd](/assets/img/cupid.png)
