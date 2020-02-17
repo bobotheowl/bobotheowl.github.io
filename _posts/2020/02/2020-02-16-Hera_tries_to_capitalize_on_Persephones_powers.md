@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hera makes and egregious miscalculation"
+title: "Hera makes an egregious miscalculation"
 tags: [Hades, Hera]
 categories: [text-messages]
 summary: Hera miscalculates when she tries to capitalize on Persephone's attraction to Hades.
