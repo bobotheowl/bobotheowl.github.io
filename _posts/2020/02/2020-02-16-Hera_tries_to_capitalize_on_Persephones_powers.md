@@ -7,7 +7,6 @@ summary: Hera miscalculates when she tries to capitalize on Persephone's attract
 author: Bobo Glaukon
 date: 2020-02-16
 image: /assets/img/locked.png
-published: false
 ---
 
 ![Hera locks Hades and Persephone in the bathroom.](/assets/img/locked.png)
