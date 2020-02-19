@@ -7,7 +7,6 @@ summary: Zeus contracts some&hellip;unusual diseases.
 author: Bobo Glaukon
 date: 2020-02-18
 image: /assets/img/dutchelm.png
-published: false
 ---
 
 ![Zeus has an uncomfortable conversation with his physicians](/assets/img/dutchelm.png)
