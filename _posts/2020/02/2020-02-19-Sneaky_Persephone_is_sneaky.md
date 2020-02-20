@@ -7,7 +7,6 @@ summary: Sneaky Persephone is sneaky.
 author: Bobo Glaukon
 date: 2020-02-19
 image: /assets/img/borrow.png
-published: false
 ---
 
 ![Persephone needs to borrow a book](/assets/img/borrow.png)
