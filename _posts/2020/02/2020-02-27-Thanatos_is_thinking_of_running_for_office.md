@@ -7,7 +7,6 @@ summary: Thanatos is thinking of running for office
 author: Bobo Glaukon
 date: 2020-02-2
 image: /assets/img/election.png
-published: false
 ---
 
 ![Thanatos is thinking of running for office](/assets/img/election.png)
