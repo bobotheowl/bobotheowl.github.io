@@ -6,8 +6,7 @@ categories: [text-messages]
 summary: Raising a little girl in the Underworld comes with its own challenges
 author: Bobo Glaukon
 date: 2020-03-07
-image: /assets/img/amber.png
-published: false
+image: /assets/img/amber.pngb*hLgzC@s2ed0Yp&dx^Q
 ---
 
 ![Raising a little girl in the Underworld comes with its own challenges.](/assets/img/amber.png)
