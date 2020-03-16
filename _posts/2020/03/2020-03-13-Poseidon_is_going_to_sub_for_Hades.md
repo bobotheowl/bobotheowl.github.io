@@ -7,7 +7,6 @@ summary: Hades has a surprise waiting in his office
 author: Bobo Glaukon
 date: 2020-03-13
 image: /assets/img/watchingthings.png 
-published: false
 ---
 
 ![Hades has a surprise waiting in his office](/assets/img/watchingthings.png)
