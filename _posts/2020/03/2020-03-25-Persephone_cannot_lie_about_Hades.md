@@ -6,7 +6,6 @@ categories: [text-messages]
 summary: Persephone cannot lie, about certain things.
 author: Bobo Glaukon
 date: 2020-03-28
-published: false
 image: /assets/img/notadate.png
 ---
 
