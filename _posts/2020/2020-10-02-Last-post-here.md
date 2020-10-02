@@ -2,7 +2,7 @@
 layout: post
 title: "Last post here"
 tags: [Poseidon, Hades]
-summary: Poseidon is planning Hades bachelor party
+summary: Go to bobotheowl.tumblr.com for all posts
 author: Bobo Glaukon
 date: 2020-05-08
 ---
